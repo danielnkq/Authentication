@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import fb
 
 class ViewController: UIViewController {
 
